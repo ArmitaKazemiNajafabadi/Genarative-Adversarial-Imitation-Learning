@@ -1,4 +1,4 @@
-# GAIL Pipeline Implementation
+# GAIL Pipeline Implementation [files not added]
 
 Clean, modular implementation of Generative Adversarial Imitation Learning (GAIL) using the [HumanCompatibleAI/imitation](https://github.com/HumanCompatibleAI/imitation) library.
 
